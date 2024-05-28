@@ -1,0 +1,116 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+
+}
+
+
+.first {
+	background: url("../Images/image1.jpg") no-repeat fixed ;
+	background-size: cover;
+	padding-bottom: 500px;
+}
+body {
+
+	padding-bottom: 300px;
+}
+
+
+nav {
+	width: 100%;
+	display: flex;
+	justify-content: space-evenly; 
+	background-color: #2e3b4e;
+
+}
+.logo header {
+	display: flexbox;
+
+}
+
+h1 {
+	display: block;
+	padding-top: 200px;
+	padding-left: 430px;
+	padding-bottom: 40px;
+}
+
+#Gst  {
+	margin-left: 580px;
+	padding: 10px 55px 15px 55px;
+	background-color: blueviolet;
+	border-radius: 25px;
+	color: white;
+}
+#lorem {
+	color: white;
+	padding-left: 580px;
+	font-size: smaller;
+  }
+
+#second {
+	  background-color: #2e3b4e;
+
+  }
+
+#second {
+	padding-bottom: 60px;
+	padding-top: 80px;
+	color: white;
+}
+
+#third {
+	padding-top: 200px;
+	background:  url(../Images/image3.jpg) no-repeat fixed;
+	background-size: cover; 
+	
+}
+#btn2 {
+	text-decoration: none;
+	background-color: #ffffff;
+	border-radius: 25px;
+	color: #c55368;
+	width: 300px;
+	margin-top: 25px;
+	margin-bottom: 100px;
+}
+#fourth {
+
+}
+.hand {
+	margin-top: 50px;
+	padding-left: 150px;
+}
+#btn3 {
+	text-decoration: none;
+	background-color: #8724cc;
+	border-radius: 25px;
+	color: #fbf9fd;
+	width: 250px;
+	margin-top: 25px;
+
+}
+#fifth {
+	background-color: #40244a;
+	padding-top: 100px;
+	margin-top: 60px;
+	padding-bottom: 60px;
+	height: 500px;
+}
+.srch{
+	border-radius: 25px;
+	height: 30px;
+}
+input {
+    line-height: 27px;
+    padding: 7px 20px;
+    border-radius: 40px;
+    border: 1px solid black;
+    font-size: 14px;
+}
+#food {
+	background: url(../Images/image4.jpg) no-repeat fixed;
+	background-size: cover;
+	height: 500px;
+}
